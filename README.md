@@ -1,1 +1,3 @@
-# Data-Science-Skillship-
+# Data Science (Skillship)
+
+GitHub repo to submit tasks.
